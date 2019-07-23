@@ -84,5 +84,5 @@ var init = function init(_ref2) {
   });
 };
 
-window.botpressWebChat = { init: init, hideWidget: false };
-window.botpressWebChat.sendEvent({ type: "show" });
+window.botpressWebChat = { init: init };
+//window.botpressWebChat.sendEvent({ type: "show" });
