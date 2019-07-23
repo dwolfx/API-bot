@@ -85,4 +85,3 @@ var init = function init(_ref2) {
 };
 
 window.botpressWebChat = { init: init };
-//window.botpressWebChat.sendEvent({ type: "show" });
