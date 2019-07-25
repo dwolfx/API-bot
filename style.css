@@ -1,0 +1,48 @@
+.bpw-composer {
+  display: none;
+}
+span.bpw-header-icon {
+  display: none;
+}
+.bpw-header-container {
+  display: none;
+}
+.bpw-keyboard-quick_reply {
+  background-color: #7abbff;
+  padding: 15px 20px;
+  text-align: left;
+  border-top: 1px solid #dcdcdc;
+  border-right: 1px solid #dcdcdc;
+  border-bottom: 1px solid #dcdcdc;
+}
+button.bpw-button {
+  border-radius: 3px;
+  border-color: rgba(0, 0, 0, 0);
+  color: #fff;
+  background-color: #86cdff;
+}
+.bpw-keyboard-quick_reply {
+  background-color: #ffffff;
+  padding: 15px 20px;
+  text-align: left;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.bpw-bot-avatar {
+  display: none;
+}
+.bpw-from-user .bpw-chat-bubble {
+  background-color: #2249ba;
+  color: #ffffff;
+}
+.bpw-layout {
+  border: 1px solid #dcdcdc;
+}
+.bpw-chat-bubble {
+  border: rgba(0, 0, 0, 0);
+  border-radius: 5px !important;
+}
+.bpw-from-bot .bpw-chat-bubble {
+  color: #333;
+  background-color: #f3f3f3;
+}
